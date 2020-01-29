@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+      var de = document.documentElement;
+      de.className = de.className.replace(/no\-js/, '');
+    </script>
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+  <body>
+    <main id="content">
+      <header>
+        <h1 class="title">{{ title | safe }}</h1>
+        <div class="meta">
+          {% if author %}<span class="author">Criado por {{ author | safe }}</span>{% endif %}
+          {% if version %}<span class="version">― Versão {{ version | safe }}</span>{% endif %}
+        </div>
+      </header>
+
+      {{ content | safe }}
+
+      <footer>
+        Qualquer dúvida, envie uma mensagem para <a href="mailto:luizpbills@gmail.com">luizpbills@gmail.com</a>.
+        <br>Este material está licenciado com uma Licença <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional</a>.
+      </footer>
+    </main>
+  </body>
+</html>

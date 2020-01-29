@@ -1,0 +1,19 @@
+{
+  "name": "deck-tales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "export DEBUG=1 && eleventy --serve --watch",
+    "build": "rm -rf _site && eleventy",
+    "deploy": "npm run build && surge _site",
+    "build-pdf": "npm run build && node scripts/build-pdf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "puppeteer": "^2.1.0"
+  }
+}
