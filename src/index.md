@@ -20,20 +20,20 @@ Vamos agora construir um personagem. Todo personagem é composto de atributos, p
 
 ### Atributos
 
-Existem 3 tipos de atributos: **qualidades**, **perícias** e **defeitos**. E esses atributos são classificados como **positivos** (qualidades ou perícias) e **negativos** (defeitos). 
+Existem 3 tipos de atributos: **qualidades**, **perícias** e **defeitos**. E esses atributos são classificados como **positivos** (qualidades ou perícias) e **negativos** (defeitos).
 
 #### Qualidades
 
 Qualidades são características marcantes do personagem. Todo personagem começa com 2 qualidades que você quiser. Para agilizar o processo você pode decidir na sorte quais serão suas qualidades. Para isso, saque 2 cartas e veja na tabela abaixo quais serão suas qualidades (se você sacar uma carta **ás (A)**, ignore e saque outra).
 
-| Carta | Qualidade | Carta  |  Qualidade  |
+| Carta | Qualidade | Carta | Qualidade |
 | :---: | :-------: | :----: | :---------: |
-| **2** | charmoso  | **8**  |    ágil     |
-| **3** | vigoroso  | **9**  |   educado   |
-| **4** | criativo  | **10** |    forte    |
-| **5** |  esperto  | **J**  | boa memória |
-| **6** |  atento   | **Q**  |   bonito    |
-| **7** |   rico    | **K**  |  cuidadoso  |
+| **2** | charmoso | **8** |  ágil   |
+| **3** | vigoroso | **9** |  educado  |
+| **4** | criativo | **10** |  forte  |
+| **5** | esperto | **J** | boa memória |
+| **6** | atento  | **Q** |  bonito  |
+| **7** |  rico  | **K** | cuidadoso |
 
 Você também pode inventar outras qualidades que não estão na tabela acima. Porém recomendamos que não escolha qualidades muito vagas como “habilidoso” (que abre um leque muito grande de interpretação).
 
@@ -41,31 +41,31 @@ Você também pode inventar outras qualidades que não estão na tabela acima. P
 
 As perícias são como treinamentos ou conhecimentos que o personagem possui. Todo personagem começa com 1 perícia apenas. Escolha uma perícia da tabela abaixo ou saque uma carta para decidir na sorte (se não tiver a carta na tabela, ignore e saque outra).
 
-| Carta  | Perícia       | Descrição                                                    |
+| Carta | Perícia    | Descrição                          |
 | :----: | ------------- | ------------------------------------------------------------ |
-| **A**  | Animais       | Você sabe cuidar de animais, tratar de seus ferimentos e até domar animais selvagens. Além disso, você conhece  os hábitos de muitos animais, sabendo como eles costumam agir e do que  se alimentam. |
-| **2**  | Armas         | Escolha um tipo de arma. Você sabe usar muito bem aquele tipo de arma e sabe dar qualquer manutenção necessária (afiar uma lâmina, por exemplo). |
-| **3**  | Luta          | Escolha algum uma arte marcial ou esporte de luta. Você será considerado alguém que praticou bastante esse estilo de luta. |
-| **4**  | Ciências      | Escolha uma área de estudo. Você é considerado um cientista e entende praticamente sobre tudo que é relacionado à sua área. |
-| **5**  | Crime         | Você é um ladrão, espião, falsário ou alguém que foi treinado por um criminoso. Sabe montar e desarmar armadilhas, destrancar fechaduras, se disfarçar, falsificar documentos, mover-se em silêncio, etc. |
-| **6**  | Esporte       | Escolha um esporte. Você é um profissional nesse esporte.    |
-| **7**  | Investigação  | Você conhece técnicas de investigação. Sabe procurar pistas, decifrar códigos, notar quando alguém está mentindo, seguir pessoas sem ser notado, etc. |
-| **8**  | Máquinas      | Você é bom com máquinas e veículos. Sabe operar, pilotar, dirigir, construir e fazer consertos, se tiver as peças e ferramentas certas. |
-| **9**  | Manipulação   | Você é muito bom em lidar com pessoas e simular emoções. Sabe interrogar, convencer, bajular, ameaçar, mentir bem, etc. |
+| **A** | Animais    | Você sabe cuidar de animais, tratar de seus ferimentos e até domar animais selvagens. Além disso, você conhece os hábitos de muitos animais, sabendo como eles costumam agir e do que se alimentam. |
+| **2** | Armas     | Escolha um tipo de arma. Você sabe usar muito bem aquele tipo de arma e sabe dar qualquer manutenção necessária (afiar uma lâmina, por exemplo). |
+| **3** | Luta     | Escolha algum uma arte marcial ou esporte de luta. Você será considerado alguém que praticou bastante esse estilo de luta. |
+| **4** | Ciências   | Escolha uma área de estudo. Você é considerado um cientista e entende praticamente sobre tudo que é relacionado à sua área. |
+| **5** | Crime     | Você é um ladrão, espião, falsário ou alguém que foi treinado por um criminoso. Sabe montar e desarmar armadilhas, destrancar fechaduras, se disfarçar, falsificar documentos, mover-se em silêncio, etc. |
+| **6** | Esporte    | Escolha um esporte. Você é um profissional nesse esporte.  |
+| **7** | Investigação | Você conhece técnicas de investigação. Sabe procurar pistas, decifrar códigos, notar quando alguém está mentindo, seguir pessoas sem ser notado, etc. |
+| **8** | Máquinas   | Você é bom com máquinas e veículos. Sabe operar, pilotar, dirigir, construir e fazer consertos, se tiver as peças e ferramentas certas. |
+| **9** | Manipulação  | Você é muito bom em lidar com pessoas e simular emoções. Sabe interrogar, convencer, bajular, ameaçar, mentir bem, etc. |
 | **10** | Sobrevivência | Você sabe sobreviver em ambientes selvagens. Sabe caçar, pescar, rastrear animais, encontrar abrigo, fazer fogo, etc. |
 
 #### Defeitos
 
 Defeitos são coisas que atrapalham o personagem em algumas situações. Todo personagem pode começar com 1 defeito se quiser. Se escolher começar com um defeito, o personagem poderá ter uma qualidade a mais. Abaixo tem uma lista de defeitos:
 
-| Carta |  Defeito   | Carta  |   Defeito   |
+| Carta | Defeito  | Carta |  Defeito  |
 | :---: | :--------: | :----: | :---------: |
-| **2** |  egoísta   | **8**  | ganancioso  |
-| **3** |  medroso   | **9**  |  desonesto  |
-| **4** |   cruel    | **10** |  orgulhoso  |
-| **5** | impaciente | **J**  | desconfiado |
-| **6** | estressado | **Q**  |  miserável  |
-| **7** | apressado  | **K**  |    chato    |
+| **2** | egoísta  | **8** | ganancioso |
+| **3** | medroso  | **9** | desonesto |
+| **4** |  cruel  | **10** | orgulhoso |
+| **5** | impaciente | **J** | desconfiado |
+| **6** | estressado | **Q** | miserável |
+| **7** | apressado | **K** |  chato  |
 
 ### Pontos de Vida
 
@@ -83,13 +83,13 @@ Sempre que você tentar fazer algo que você não tem certeza se vai conseguir, 
 
 Todo teste possui um **Nível de Dificuldade (ND)**, que começa com valor 2 e aumenta ou diminui dependendo da situação. Tudo que puder te ajudar no teste vai reduzir o ND em −1. Enquanto tudo que puder te prejudicar, ou atrapalhar, vai aumentar o ND em +1. Porém, o ND nunca vai ser menor que zero ou maior que 3. Veja o exemplo:
 
-- Numa disputa de quebra de braço, o teste teria ND 1 se você tivesse a qualidade “forte” mas seu oponente não. Teria ND 2 se nenhum de vocês dois tivesse essa qualidade ou se ambos tivessem. Ou teria ND 3 se você não tivesse, mas seu oponente tivesse. Ainda poderia ter ND 0 (zero) se você você fosse “forte” e seu oponente tivesse o defeito “fraco”, pois nessa situação seria 2 vantagens para você e o ND reduziria em −2.
+- Numa disputa de queda de braço, o teste teria ND 1 se você tivesse a qualidade “forte” mas seu oponente não. Teria ND 2 se nenhum de vocês dois tivesse essa qualidade ou se ambos tivessem. Ou teria ND 3 se você não tivesse, mas seu oponente tivesse. Ainda poderia ter ND 0 (zero) se você você fosse “forte” e seu oponente tivesse o defeito “fraco”, pois nessa situação seria 2 vantagens para você e o ND reduziria em −2.
 
-No geral, tudo que aumenta o ND é chamado de desvantagem e tudo que diminui o ND é uma vantagem.
+No geral, para quem está fazendo o teste tudo que aumenta o ND são desvantagens e tudo que diminui o ND são vantagens.
 
 Depois que você tiver decidido qual será o ND do teste, saque 3 cartas. Se nessas cartas o número de cartas pretas (Paus ou Espadas) for igual ou maior que o ND, então você terá sucesso no teste e conseguirá fazer o que queria. Caso contrário, você não consegue. Por exemplo, num teste com ND 1 você saca 3 cartas e pelo menos 1 deve ser preta para você ter sucesso. Já num teste com ND 3, para ter sucesso as 3 cartas deverão ser pretas.
 
-Se o teste tiver ND 0 (zero), você não precisa sacar as 3 cartas, pois terá sucesso automático. 
+Se o teste tiver ND 0 (zero), você não precisa sacar as 3 cartas, pois terá sucesso automático.
 
 ### Combate
 
@@ -109,29 +109,29 @@ Sempre que o seu alvo estiver **desprevenido** (dormindo, distraído, paralisado
 
 Abaixo tem algumas armas e proteções para vários tipos de cenários:
 
-| Arma                                      | Ataque   |
+| Arma                   | Ataque  |
 | ----------------------------------------- | :------: |
-| Armas como espadas, maças, machados, etc. | 8 a 10*  |
-| Arco ou besta                             | 8        |
-| Taco de basebol ou pé de cabra            | 9        |
-| Revolver                                  | 9        |
-| Fuzil                                     | 12       |
-| Escopeta                                  | 15       |
-| Socos e outros golpes de luta             | 5 ou 7** |
-| Faca                                      | 6        |
-| Mordida                                   | 7        |
-| Garras                                    | 6        |
+| Armas como espadas, maças, machados, etc. | 8 a 10* |
+| Arco ou besta               | 8    |
+| Taco de basebol ou pé de cabra      | 9    |
+| Revolver                 | 9    |
+| Fuzil                   | 12    |
+| Escopeta                 | 15    |
+| Socos e outros golpes de luta       | 5 ou 7** |
+| Faca                   | 6    |
+| Mordida                  | 7    |
+| Garras                  | 6    |
 
 <small>*\* espadas e outras armas medievais podem ter ataque de 8 a 11, dependendo da qualidade da arma.*</small><br><small>*\*\* Socos e outros golpes podem ter ataque 7 se o atacante tiver a perícia Luta. Caso contrário, vão ter ataque 5.*</small>
 
-| Proteção                            | Defesa |
+| Proteção              | Defesa |
 | ----------------------------------- | :----: |
-| Escudo pequeno                      |   2    |
-| Escudo grande                       |   4    |
-| Armadura leve ou um casaco de couro |   2    |
-| Armadura pesada\*\*\*               |   5    |
-| Colete a prova de balas             |   4    |
-| Campo de força                      |   6    |
+| Escudo pequeno           |  2  |
+| Escudo grande            |  4  |
+| Armadura leve ou um casaco de couro |  2  |
+| Armadura pesada\*\*\*        |  5  |
+| Colete a prova de balas       |  4  |
+| Campo de força           |  6  |
 
 <small>*\*\*\* uma armadura pesada por ser “pesada” afeta a agilidade e reflexos do personagem, deixando ele mais lento.*</small>
 
@@ -141,22 +141,22 @@ Mas tenha em mente que combates são quase sempre bem perigosos, pois queremos t
 
 ### Morrendo
 
-Ao ser atacado você poderá ser ferido e perder PV e se você perder todos os seus PV, seu personagem ficará **inconsciente**, não podendo mais fazer nenhuma ação. 
+Ao ser atacado você poderá ser ferido e perder PV e se você perder todos os seus PV, seu personagem ficará **inconsciente**, não podendo mais fazer nenhuma ação.
 
 A cada hora enquanto o personagem estiver inconsciente, você deverá fazer um teste com ND 1 (veja adiante) para acordar. Se você acordar, você ficará com 1 PV e poderá voltar a agir novamente. Porém se você for ferido enquanto estiver inconsciente, você deverá fazer um teste com ND 2 para continuar vivo. A cada outro ferimento o ND vai aumentar em +1.
 
 ### Dinheiro
 
-Dinheiro ($) além de “moeda de troca” também vai funcionar como contador de experiência para personagens dos jogadores (veja adiante). Todo personagem começa com $ 120. 
+Dinheiro ($) além de “moeda de troca” também vai funcionar como contador de experiência para personagens dos jogadores (veja adiante). Todo personagem começa com $ 120.
 
 Se você tiver a qualidade “rico”, seu personagem com $ 600 ao invés de $ 100. Mas se tiver o defeito “miserável”, começará com nada de dinheiro.
 
 Abaixo tem os valores de algumas coisas comuns em vários cenários:
 
-- **Hospedagem**: o custo de uma hospedagem para uma  pessoa é $ 50 em lugares simples (como uma estalagem) e $ 250 ou mais  em lugares luxuosos (como um hotel cinco estrelas).
-- **Alimentação**: o custo de um prato de comida para uma pessoa em um estabelecimento popular (onde a maioria das pessoas comem) é $ 10, mas em lugares luxuosos (como restaurantes premiados) o custo  pode passar de $ 100.
-- **Comprar um veículo (ou animal)**: o custo do veículo vai depender da velocidade máxima dele, sendo $ 2000 para cada 10 km/h mais $ 500 por pessoa que ele pode transportar. Esse valor pode duplicar ou triplicar se for algum veículo de luxo. Por exemplo, um cavalo que faz 20 km/h e leva 2 pessoas, vai custar, no mínimo, $ 5000 (4000 + 1000). 
-- **Alugar um veículo**: o custo diário para alugar um veículo será o valor dele dividido por 100. Por exemplo, o cavalo que  custa $ 5000, vai custar $ 50 por dia. E geralmente você deve alugar o veículo por um mínimo de dias, além de arcar com outros custos como combustível.
+- **Hospedagem**: o custo de uma hospedagem para uma pessoa é $ 50 em lugares simples (como uma estalagem) e $ 250 ou mais em lugares luxuosos (como um hotel cinco estrelas).
+- **Alimentação**: o custo de um prato de comida para uma pessoa em um estabelecimento popular (onde a maioria das pessoas comem) é $ 10, mas em lugares luxuosos (como restaurantes premiados) o custo pode passar de $ 100.
+- **Comprar um veículo (ou animal)**: o custo do veículo vai depender da velocidade máxima dele, sendo $ 2000 para cada 10 km/h mais $ 500 por pessoa que ele pode transportar. Esse valor pode duplicar ou triplicar se for algum veículo de luxo. Por exemplo, um cavalo que faz 20 km/h e leva 2 pessoas, vai custar, no mínimo, $ 5000 (4000 + 1000).
+- **Alugar um veículo**: o custo diário para alugar um veículo será o valor dele dividido por 100. Por exemplo, o cavalo que custa $ 5000, vai custar $ 50 por dia. E geralmente você deve alugar o veículo por um mínimo de dias, além de arcar com outros custos como combustível.
 
 Itens e equipamentos não estão listados acima pois seus valores costumam variar muito. Recomendamos que você faça uma pesquisa na internet e consulte valores.
 
@@ -214,14 +214,14 @@ Anote todas as respostas em alguma folha que você possa consultar sempre que pr
 
 A tabela abaixo vai servir de inspiração para escolher missões aleatoriamente. Para usa-la você deve sacar 3 cartas, cada uma vai ser um valor de uma coluna.
 
-|    Carta     |        Você deve...        |           O quê?           |              Se não...               |
+|  Carta   |    Você deve...    |      O quê?      |       Se não...        |
 | :----------: | :------------------------: | :------------------------: | :----------------------------------: |
-|  **A e 2**   |         investigar         |      um artefato raro      |          você ficará preso           |
-|  **3 e 4**   | construir ou<br />fabricar |         uma pessoa         |       uma guerra<br />começará       |
-|  **5 e 6**   |         encontrar          |          uma casa          |     você terá<br />má reputação      |
-|  **7 e 8**   |           roubar           | um sinal ou <br />mensagem |       alguém vai <br />morrer        |
-|  **9 e 10**  |   matar ou<br />destruir   |         uma bomba          | algo será perdido <br /> para sempre |
-| **J, Q e K** |          entregar          |        uma estátua         |    um lugar <br />será destruído     |
+| **A e 2**  |     investigar     |   um artefato raro   |     você ficará preso      |
+| **3 e 4**  | construir ou<br />fabricar |     uma pessoa     |    uma guerra<br />começará    |
+| **5 e 6**  |     encontrar     |     uma casa     |   você terá<br />má reputação   |
+| **7 e 8**  |      roubar      | um sinal ou <br />mensagem |    alguém vai <br />morrer    |
+| **9 e 10** |  matar ou<br />destruir  |     uma bomba     | algo será perdido <br /> para sempre |
+| **J, Q e K** |     entregar     |    uma estátua     |  um lugar <br />será destruído   |
 
 A tabela acima vai apenas te dar uma inspiração, caberá a você elaborar o objetivo. Por exemplo, você sacou 3 cartas: 7, 3 e Q. Seu objetivo será “Roubar uma pessoa, se não um lugar será destruído”. O que você deve roubar dessa pessoa? Quem é essa pessoa? Que lugar é esse? Todas essas perguntas cabe a você responder da forma mais adequada para o seu cenário. Mas se você ficar confuso, saque outras 3 cartas ou simplesmente invente a missão.
 
@@ -235,15 +235,15 @@ Por exemplo, você está invadindo um calabouço e encontra um guarda. Você ent
 
 Se você sacar uma carta de figura (valete, rainha ou rei) durante um teste, algo inesperado vai acontecer. Sacar mais de uma carta de figura não fará mais de um evento inesperado acontecer.
 
-|   Carta    |               Evento inesperado                |
+|  Carta  |        Evento inesperado        |
 | :--------: | :--------------------------------------------: |
-| **A e 2**  | Um aliado seu surge na cena, se você tiver um  |
-| **3 e 4**  |     Você nota algo que pode te beneficiar      |
-| **5 e 6**  |            Você encontra algo útil             |
-| **7 e 8**  | Um inimigo seu surge na cena, se você tiver um |
-| **9 e 10** |      você perde um item seu (escolha um)       |
-| **J e Q**  |       Algo ruim acontece e te prejudica        |
-|   **K**    |  Você descobre que está sendo ou foi enganado  |
+| **A e 2** | Um aliado seu surge na cena, se você tiver um |
+| **3 e 4** |   Você nota algo que pode te beneficiar   |
+| **5 e 6** |      Você encontra algo útil       |
+| **7 e 8** | Um inimigo seu surge na cena, se você tiver um |
+| **9 e 10** |   você perde um item seu (escolha um)    |
+| **J e Q** |    Algo ruim acontece e te prejudica    |
+|  **K**  | Você descobre que está sendo ou foi enganado |
 
 Em uma das linhas da tabela acima, tem o evento “Você encontra algo útil”. Para esses casos, recomendamos que você faça uma tabela com 6 ou 7 linhas de itens úteis que poderiam ser encontrados no seu cenário.
 
@@ -251,12 +251,12 @@ Em uma das linhas da tabela acima, tem o evento “Você encontra algo útil”.
 
 Para te ajudar na hora da sua aventura, abaixo listamos algumas fichas de personagem. Use-as para gerar seus inimigos ou aliados que você encontrar durante sua jornada:
 
-|     Nível      | Ficha                                                        |
+|   Nível   | Ficha                            |
 | :------------: | ------------------------------------------------------------ |
-|  muito fraco   | Ataque 4, Defesa 0, 5 PV. 1 qualidade (ágil ou esperto).     |
-|     fraco      | Ataque 6, Defesa 0, 8 PV. 1 qualidade (ágil, forte, atento ou esperto). |
-|     comum      | Ataque 9, Defesa 0; 12 PV. 2 qualidades (ágil, forte, atento ou esperto). |
-|    poderoso    | Ataque 12; Defesa 4; 15 PV. 2 qualidades (ágil, forte, atento ou esperto) e 1 perícias (Luta, Armas ou outras de conhecimento).  E o defeito “cruel”, se for inimigo. |
+| muito fraco  | Ataque 4, Defesa 0, 5 PV. 1 qualidade (ágil ou esperto).   |
+|   fraco   | Ataque 6, Defesa 0, 8 PV. 1 qualidade (ágil, forte, atento ou esperto). |
+|   comum   | Ataque 9, Defesa 0; 12 PV. 2 qualidades (ágil, forte, atento ou esperto). |
+|  poderoso  | Ataque 12; Defesa 4; 15 PV. 2 qualidades (ágil, forte, atento ou esperto) e 1 perícias (Luta, Armas ou outras de conhecimento). E o defeito “cruel”, se for inimigo. |
 | muito poderoso | Ataque 16; Defesa 6; 25 PV. 3 qualidades (ágil, forte, atento ou esperto) e 2 perícias (Luta, Armas ou outras de conhecimento). E o defeito “cruel”, se for inimigo. |
 
 Personagem fracos podem ser interpretados como pessoas sem treinamento algum ou animais. Já os poderosos são como pessoas com certo treinamento ou monstros. Se você estiver usando a regra opcional de poderes (veja adiante), personagens poderosos também podem 1 ou 2 poderes. Para criar personagens mais poderosos ainda, melhore as perícias ou qualidades deles.
@@ -302,4 +302,4 @@ Para adaptar uma **raça** siga esses passos: escolha uma qualidade em que sua r
 - Elfos: recebem a perícia “Armas (arcos)” e odeiam anões e orks.
 - Zumbi: recebem a qualidade “resistente à dor” e o defeito “vulnerável à fogo”.
 
-Enfim, essas raças são apenas exemplos. Adapte as raças que existem no seu cenário ou jogue sem essa regra, vai funcionar bem também. 
+Enfim, essas raças são apenas exemplos. Adapte as raças que existem no seu cenário ou jogue sem essa regra, vai funcionar bem também.
